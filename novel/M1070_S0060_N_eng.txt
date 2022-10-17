@@ -1,0 +1,46 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0060_N_start>
+<page>
+Zagłębiałem się dalej w zapiski...<bt_wait>
+Nie znalazłem żadnej wzmianki o maszynach tworzących nową kulturę czy wartości.
+One tylko naśladowały ludzkie zachowania.<bt_wait>
+
+Dziwne było to, że jeśli im nie wychodziło, to następnym razem czekała ich dokładnie taka sama porażka..<bt_wait>
+Na przykład, jeśli maszyny uformowały dyktaturę, która kiedyś upadała,
+nie próbowały innego rodzaju rządu — tworzyły nową dyktaturę.<bt_wait>
+Albo jeśli posadziły rośliny i te umierały, to maszyny ponownie próbowały tego samego.<bt_wait>
+I ponownie.<bt_wait> I ponownie.<bt_wait> I ponownie.<bt_wait>
+
+Powtarzały te same zachowania. Nie UCZYŁY SIĘ.
+</page>
+
+
+<page>
+Jeśli chodzi o walkę, to maszyny wykazują niesamowite zachowania adaptacyjne i
+ewolucyjną szybkość..<bt_wait>
+
+Dlaczego więc nalegają na naśladowanie ludzkości?
+A dokładniej, dlaczego naśladują ich porażki?<bt_wait>
+
+To tak jakby ich celem była <i>poraẓka sama w sobie</i>.<bt_wait>
+
+Wyczuwam zmianę w danych. Pewien ruch.<bt_wait>
+Wyostrzam wzrok i wstrzymuję oddech.
+
+</page>
+
+
+<page>
+„Ja...”<bt_wait><BGM_BGM_M1070_S0060_N_0010>
+
+Słyszę coś. Daleki głos.<bt_wait>
+
+„Ogłasz...”<bt_wait>
+
+„...wszystkim androidom...”<bt_wait>
+
+Coś tam jest. Coś wyraźnie inteligentnego.
+
+</page>
+<BGM_BGM_M1070_S0060_N_end>

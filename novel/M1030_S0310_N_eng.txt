@@ -1,0 +1,133 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+
+<BGM_BGM_M1030_S0310_N_start>
+<page>
+
+Popatrz na mnie.
+           Och, proszę, popatrz na mnie.
+                                Chcę by twoje oczy patrzyły tylko na mnie.<bt_wait>
+                        
+
+
+Czy nie stałam się piękna?
+
+
+
+</page>
+
+
+<page>
+<i>Czy dziėki tym ciuchom, wyglạdam uroczo?</i><bt_wait><BGM_BGM_M1030_S0310_N_0010>
+<i>Czy bėdzie mu siė podobaŀo, jak bėdė tak chodziċ?</i><bt_wait>
+
+Wciąż nie rozumiem, co oznacza kogoś kochać.
+Ale podjęłam decyzję.<bt_wait>
+
+Zrobię cokolwiek będzie trzeba, by przykuć jego uczucie.
+</page>
+
+
+<page>
+Dawno temu, stara mechaniczna forma życia powiedziała mi:
+„Piękno jest tym, co wygrywa miłość.”<bt_wait>
+
+Ale czym jest „piękno”?<bt_wait>
+Po przebadaniu starego świata, wreszcie odnalazłam prawdę.<bt_wait>
+Piękno to ładna skóra.
+Piękno to stylowe dodatki.
+Piękno to wyglądanie najlepiej jak się da.<bt_wait>
+
+Stanę się piękna. Zrobię to dla niego.
+</page>
+
+
+<page>
+Niegdyś usłyszałam opowieść o wartościowym klejnocie na dalekim wschodzie.
+Powiadano, że leży na bardzo niebezpiecznej górze.
+Ale nie obchodziło mnie to.<bt_wait>
+
+Ześlizgiwałam się z klifów. Spadałam na skały. Ale w końcu zdobyłam klejnot.<bt_wait>
+
+Niebieski kamień.<bt_wait> Przepięknie niebieski.<bt_wait> Tak piękny.<bt_wait>
+
+Straciłam wiele części w trakcie zdobywania tego kamienia. Straciłam... siebie.<bt_wait>
+
+Ale moje rany to medale.
+</page>
+
+
+<page>
+Ostatnio wśród mechanicznych form życia krąży pewna plotka:
+„Pochłoń ciało androida by zdobyć wieczne piękno.”<bt_wait>
+
+Co za nonsens.
+To fizycznie niemożliwe, by zdobyć piękno przez skonsumowanie androida.<bt_wait>
+
+Ale i tak spróbowałam.
+Spróbowałabym wszystkiego.<bt_wait>
+Chciało mi się wymiotować, ale jadłam dalej.<bt_wait>
+Smakowało jak olej.<bt_wait>
+</page>
+
+
+<page>
+Nie minęła nawet chwila, kiedy zapragnęłam być jeszcze piękniejsza.
+Ale on wciąż nie patrzył w moją stronę.<bt_wait>
+
+Nawet spróbowałam nauczyć się czegoś nazywanego „piosenką”.
+Piosenki mogą sprawić, że ktoś coś do ciebie poczuje.
+Tak powiadają.
+Ćwiczyłam więc codziennie.<bt_wait>
+Ale on wciąż nie patrzył w moją stronę.<bt_wait>
+
+Zjadłam więcej androidów. Zjadłam nawet mechaniczne formy życia.<bt_wait>
+Ale on wciąż nie patrzył w moją stronę.
+</page>
+
+
+<page>
+On nie patrzył w moją stronę.<bt_wait>
+On nie patrzył w moją stronę.<bt_wait>
+On nie patrzył w moją stronę.<bt_wait>
+On nie patrzył w moją stronę.<bt_wait>
+On nie patrzył w moją stronę.<bt_wait>
+
+Nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył
+w moją stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w moją
+stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w moją stronę<bt_wait>
+
+On    wciąż      nie      patrzył      w     moją    stronę.
+</page>
+
+
+<page>
+Wtedy zdałam sobie sprawę, że nie obchodzą go klejnoty.
+Czy piosenki, czy piękno, czy wygląd czegokolwiek innego.
+Nie zdobędę jego miłości.<bt_wait>
+
+Dlaczego to sobie zrobiłam?<bt_wait>
+
+Bez sensu.<bt_wait>
+Bez sensu.<bt_wait>
+BEZ SENSU.<bt_wait>
+
+Wpatruję się w lustro. w odbiciu widzę tylko własny bezsens. I dlatego krzyczę.<BGM_BGM_M1030_S0310_N_0020>
+</page>
+
+
+<page>
+
+
+
+
+
+niech<bt_wait>　ktoś<bt_wait>　na<bt_wait>　mnie<bt_wait>   spojrzy
+
+
+
+
+
+</page>
+<BGM_BGM_M1030_S0310_N_end>

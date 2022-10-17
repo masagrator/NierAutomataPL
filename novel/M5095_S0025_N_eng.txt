@@ -1,0 +1,29 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0025_N_start>
+<page>
+Źródło zasilania potwierdzone<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>Aktywowanie modułu rdzenia
+<BGM_BGM_Play_Fx_HDD_1>Sprawdzanie funkcji motorycznych <BGM_BGM_Play_Fx_HDD_1>prawego ramienia
+<BGM_BGM_Play_Fx_HDD_1>Sprawdzanie funkcji motorycznych <BGM_BGM_Play_Fx_HDD_1>lewego ramienia
+<BGM_BGM_Play_Fx_HDD_1>Sprawdzanie funkcji motorycznych <BGM_BGM_Play_Fx_HDD_1>prawej nogi
+<BGM_BGM_Play_Fx_HDD_1>Sprawdzanie funkcji motorycznych <BGM_BGM_Play_Fx_HDD_1>lewej nogi
+<BGM_BGM_Play_Fx_HDD_1>Aktywowanie modułu kamery
+<BGM_BGM_Play_Fx_HDD_1>Aktywowanie modułu mikrofonu
+<BGM_BGM_Play_Fx_HDD_2>Aktywowanie modułu głośnika<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>Wykryto 12% niedoborów w obwodach.<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>Wartość w dopuszczalnych normach. <BGM_BGM_Play_Fx_HDD_1>Aktywacja zatwierdzona.<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_2>Nazywam się Platon.<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>Platon 1728.<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_1>Jestem 1728-mą <BGM_BGM_Play_Fx_HDD_1>bronią bojową.
+</page>
+<BGM_BGM_M5095_S0025_N_end>
+
+
+
+
+

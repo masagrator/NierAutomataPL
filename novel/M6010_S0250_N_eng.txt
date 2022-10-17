@@ -1,0 +1,242 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+..M6010_S0150_N
+
+<BGM_BGM_M6010_S0250_N_start>
+<page>
+
+
+
+
+[14. Wojna z Maszynami — Desant na Pearl Harbor]<bt_wait>
+Nazwa misji powierzonej żołnierzom YoRHa.
+
+
+
+
+</page>
+
+
+<page>
+Czy była tam ta szalona wymiana ognia? To bombardowanie trwające bez końca?<bt_wait>
+Naszym celem jest serwer maszyn pod góra Ka'ala — a nasza sytuacja jest tragiczna.<bt_wait>
+
+„Potrzebujemy wsparcia. Natychmiast zażądaj ich wydania.”<bt_wait><BGM_BGM_M6010_S0250_N_0010>
+Numer 2 mówi szybko, ale spokojnie — co jest godna podziwu ze względu na wrogą
+armię zbliżającą się do naszej pozycji. Ale centrum dowodzenia na orbitującej satelicie
+informuje nas, że nie pojawią się żadne posiłki.<bt_wait>
+
+Zostałyśmy porzucone.<bt_wait> Jesteśmy same.<bt_wait>
+
+Tak łatwo to zrobić z góry. Z satelity. Z księżyca.
+</page>
+<page>
+Nie możemy wrócić i nie możemy iść naprzód. Zamiast tego, dzielimy się na dwoje.<bt_wait>
+
+Na przednią straż, której zadaniem jest zinfiltrować i zniszczyć serwer.<bt_wait>
+I tylną straż, która ma powstrzymywać mechaniczne formy życia tak długo, jak będzie w stanie.<bt_wait>
+
+Została jeszcze czwórka: Lilly, Dalia, Margaret i Numer 16.
+</page>
+
+<page>
+„Zrobię wszystko, co będzie niezbędne.” mówi Lilly z ponurym uśmiechem.<bt_wait> Dalia i
+Margaret szybko kiwają na zgodę, tak samo robi Numer 16. Zdecydowały dołączyć się
+do tylnej straży, zostając z tyłu jako nasza tarcza, nawet jeśli będzie je
+to kosztować życie. Mimo to, zgodziły się bez wahania.<bt_wait>
+My w straży przedniej dołączymy do nich wystarczająco szybko.<bt_wait>
+Bez słów odwracamy się do siebie tyłem i przyjmujemy pozycje.<bt_wait>
+
+Wiemy, że to koniec.
+</page>
+
+<page>
+Dalia i reszta kupią nam czas na dotarcie do bram szczytu Ka'ala.<bt_wait><BGM_BGM_M6010_S0250_N_0020>
+Za nimi leży winda, a za nią... jest serwer.<bt_wait>
+
+Jeśli uda nam się je zniszczyć, zadamy druzgoczący cios mechanicznym
+formom życia w rejonie Pacyfiku.<bt_wait>
+
+Ale kiedy zauważam, że Numer 21 marszczy się przy windzie, zaczynam mieć złe
+przeczucia co do ostatniej fazy naszej misji.
+</page>
+
+<page>
+„Idźcie.” mówi. „Zajmę się tym.”<bt_wait>
+
+Tłoczymy się w windzie, kiedy ona zaczyna hakować terminal windy. Nie musi
+mówić co się dzieje — jest dla nas jasne, że winda nie zjedzie całej drogi do
+serwera, jeśli ktoś nie będzie jej kontrolował z góry.<bt_wait>
+
+„Wrogowie nadchodzą... Prawie do nas dotarli...”<bt_wait>
+Kiedy to mówię, nagle orientuję się, że wyskakuję z windy i przyjmuję pozycję
+przy Numerze 21 — prawie jakbym straciła kontrolę nad własnym ciałem.<bt_wait>
+Coś jest nie tak. Coś...
+</page>
+
+<page>
+„Wesprę Numer 21!” krzyczę. „ Reszta z was niech zajmie się serwerem!”<bt_wait>
+
+Drzwi zamykają się za moimi przyjaciółkami. Ostatnia rzecz, jaką widzę to twarz mojej
+kapitan Róży. Wygląda na... zmartwioną. Ale drzwi się zamykają i już jej nie ma.<bt_wait>
+
+To był ostatni raz, kiedy je widziałam.<bt_wait>
+
+Ale jest w porządku. Zakończę to w taki czy inny sposób.
+</page>
+
+<page>
+Jedyny dźwięk, jaki do nas dociera, to oddalone wybuchy i charczenie w oddechu Numeru 21.<bt_wait><BGM_BGM_M6010_S0250_N_0030>
+
+„Dziękuję”, szepcze. „Za zostanie ze mną.”<bt_wait>
+
+Patrzę w jej oczy i widzę w nich zapowiedź czerwieni od infekcji wirusem logicznym.<bt_wait>
+
+Miałam jednak rację.<bt_wait>
+
+Wzdycham lekko, kiedy wyciągam broń.
+</page>
+
+<page>
+Widziałam już wcześniej zainfekowanych kompanów.<bt_wait>
+Dlatego nie mogłam pozwolić jej umrzeć samotnie.<bt_wait>
+
+Szczepionka, którą dała Lilly już jest nieefektywna. Wróg ewoluował.<bt_wait>
+Przestudiowały wzory pracy Numeru 21 i stworzyły odporność.<bt_wait>
+
+Nikt jej teraz nie uratuje.
+</page>
+
+<page>
+„K-kiedy winda... dotrze do serwera.” zaczyna Numer 21 słabo.<bt_wait>
+
+„Wtedy ofiaruję ci pokój.” odpowiadam.<bt_wait>
+
+Winda zjeżdża coraz niżej, tworząc odliczanie dla życia Numeru 21.<bt_wait>
+Ile czasu minęło? Ile mogło jeszcze zostać?<bt_wait>
+Za długo by czekać, za krótko by żałować.
+</page>
+
+<page>
+Masywna eksplozja rozlega się w oddali, kiedy korytarz lekko się trzęsie.<bt_wait>
+
+To ostatnie dzieło Lilly i reszty w straży tylnej.<bt_wait>
+Po prostu przeciążyły własne reaktory fuzyjne.
+</page>
+
+<page>
+Dźwięk końca naszych kompanów powoli cichnie w naszych uszach<bt_wait>
+Kiedy to się dzieje, Numer 21 sięga i powoli zdejmuje gogle.<bt_wait>
+
+„Ja... cieszę się, że cię spotkałam.” mówi.<bt_wait>
+
+Jej oczy są takie czerwone. Ale nie zupełnie. Wciąż jest tam odrobina jej samej.<bt_wait>
+I póki tak jest...<bt_wait>
+
+„Nie martw się.” mówię. „Niedługo do ciebie dołączę.”<bt_wait>
+
+Uśmiecha się, kiedy moje słowa docierają do jej uszu.
+</page>
+
+<page><BGM_BGM_M6010_S0250_N_0040>
+Kiedy tylko winda dotyka dna, wystrzeliwuję pocisk w mózg Numeru 21.<bt_wait>
+Patrze jak rzecz, która nią była, upada na ziemię.<bt_wait>
+Patrze na pistolet ściskany w drżących rękach.<bt_wait>
+
+Przykładam go do skroni.<bt_wait>
+
+To zakończy to wszystko.<bt_wait>
+
+Wojnę.<bt_wait> Moją bezsensowną egzystencję.<bt_wait> Wszystko.<bt_wait>
+
+Wreszcie się skończy.
+</page>
+<page>
+Nie mogę tego zrobić.<bt_wait> Nie mogę pociągnąć za spust.<bt_wait>
+Moje systemy zdają się być w normie, ale pocę się, a mój oddech jest przyśpieszony.<bt_wait>
+Moje oczy są suche. Dostaję dziwne odczyty moich oznak życiowych.<bt_wait>
+Nie mogę poruszać nogami, tak jakby utknęły w błocie.<bt_wait>
+
+Słyszę głos.
+</page>
+
+<page>
+<i>Niewybaczalne. <bt_wait>Niewybaczalne. <bt_wait>Niewybaczalne. <bt_wait>Niewybaczalne. <bt_wait>Niewybaczalne.</i><BGM_BGM_M6010_S0250_N_0050>
+
+<i>Twoje towarzyszki poṡwiėcajạ siė i walczạ do ostatniego tchu.</i><bt_wait>
+<i>Czujạ cierpienie. Czujạ smutek. Czujạ ból i lėk.</i><bt_wait>
+<i>A TY siė teraz poddasz? Niewybaczalne!</i><bt_wait>
+
+Głos jest przekleństwem bitewnym, który mówi tym, którzy przetrwali,
+by rozważyli swoją misję niezależnie od sytuacji.<bt_wait>
+
+To wykrzykuje druga ja.
+</page>
+
+<page>
+Krzyczę z całych sił i biegnę dalej korytarzem.<bt_wait>
+Pokażę wam.<bt_wait> Jeśli masz zamiar mnie naciskać, to ci pokażę.<bt_wait>
+Będziesz usatysfakcjonowana tylko wtedy, gdy zakończy się to większą ilością zabijania.<bt_wait>
+
+
+
+Wskakuję w wir bitwy z bronią w obu dłoniach.<bt_wait>
+
+Oto jestem.<bt_wait>
+OTO JESTEM!<bt_wait>
+ZABIJCIE MNIE!<bt_wait>
+
+Kiedy krzyczę, nagle rozlega się wybuch, który zmiata wszystko wokół.
+</page>
+
+<page>
+Delikatny powiew dotyka mego policzka.<bt_wait> Czuję ogień.<bt_wait> Czuję popiół.<bt_wait>
+Wybuch w serwerowni był wystarczająco potężny, by zmieść z powierzchni samą górę Ka'ala,
+redukując niegdyś dumny szczyt do dymiącego krateru.
+
+Maszyny w jednej chwili upadają na ziemię i nieruchomieją.<bt_wait>
+
+Patrze nad spaloną ziemią.<bt_wait> Lilly? Numerze 16? Różo? Numerze 2? Czy któraś z was...?<bt_wait>
+
+Tylko ja zostałam.<bt_wait> Jedyna.<bt_wait>
+Żyłam, bo bałam się umrzeć.
+</page>
+
+<page>
+Zaczęłam chichotać. To szalony dźwięk, pomylony, nawet dla moich uszu.<bt_wait>
+
+<i>Doŀạczė do ciebie niedŀugo... Obiecaŀaṡ, ẓe do niej niedŀugo doŀạczysz!</i><bt_wait>
+
+Jak mogłam wypowiedzieć takie próżne, zabawne słowa? Takie kłamstwa?<bt_wait>
+Śmieję się. Stoję w dymie i płomieniach i śmieję się dopóki nie
+mam wrażenia, że moje gardło rozpadnie się na dwie części.
+</page>
+
+<page>
+Mrugam.<bt_wait> Przez dym prześwituje światło słońca.<bt_wait>
+
+Stałam tutaj całą noc.<bt_wait>
+
+Mój śmiech wreszcie ustał, zmuszam się, żeby wstać.<bt_wait>
+Jestem tchórzem, który został z tyłu. Tchórzem, który przeżył.
+Teraz to moje zadanie, by nieść wolę tych, którzy walczyli u mego boku<bt_wait>
+Skoro nie umiem się zabić, muszę walczyć, dopóki ktoś mnie nie wyręczy.
+Zniosę każdą niedolę. Zabiję każda maszynę, którą znajdę.<bt_wait>
+
+To mój krzyż.
+</page>
+
+<page>
+
+
+
+
+Idę powoli na zachód, ciągnąc ze sobą swoje zniszczone ciało.<BGM_BGM_M6010_S0250_N_0060>
+
+
+
+</page>
+<BGM_BGM_M6010_S0250_N_end>
+
+...SiD_end

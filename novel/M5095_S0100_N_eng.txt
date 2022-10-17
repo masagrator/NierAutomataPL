@@ -1,0 +1,14 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0100_N_start>
+<page>
+Nazywam się Platon 1728.<bt_wait>
+Jestem 1728-mą bronią bojową.<bt_wait>
+
+Nigdy nie byłem tak bystry i zdolny jak inni.<bt_wait>
+Ale jeśli będę pracował wystarczająco ciężko, wszyscy na pewno mnie docenią.<bt_wait>
+
+A przynajmniej tak wierzyłem.
+</page>
+<BGM_BGM_M5095_S0100_N_end>
+

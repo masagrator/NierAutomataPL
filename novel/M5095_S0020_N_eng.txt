@@ -1,0 +1,94 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+
+<BGM_BGM_M5095_S0020_N_start>
+<if_DLC_plato/1>
+<then_A>
+<if_DLC_plato/2>
+<then_B>
+<if_DLC_plato/3>
+<then_C>
+
+<label_A>
+<page>
+Wybierz plik
+<sele_D> 30 stycznia: Trening fizyczny
+<sele_BACK>Wyjdź
+</page>
+
+
+<label_B>
+<page>
+Wybierz plik
+<sele_D2> 30 stycznia: Trening fizyczny
+<sele_E> 3 czerwca: Trening bojowy
+<sele_BACK>Wyjdź
+</page>
+
+
+<label_C>
+<page>
+Wybierz plik
+<sele_D2> 30 stycznia: Trening fizyczny
+<sele_E2> 3 czerwca: Trening bojowy
+<sele_F> 27 września: Platon 1728 - raport likwidacji danych
+<sele_BACK>Wyjdź
+</page>
+
+<label_D2>
+<page>
+
+
+
+
+
+
+
+
+****************************************************************************************************************************
+　　　　　　　　　　　　　　　　　　Ten zapis został przeznaczony do usunięcia i nie jest już dostępny.  
+****************************************************************************************************************************
+</page>
+<if_DLC_plato/2>
+<then_B>
+<if_DLC_plato/3>
+<then_C>
+
+<label_E2>
+<page>
+
+
+
+
+
+
+
+
+****************************************************************************************************************************
+　　　　　　　　　　　　　　　　　　Ten zapis został przeznaczony do usunięcia i nie jest już dostępny.  
+****************************************************************************************************************************
+</page>
+<then_C>
+
+
+<label_D>
+<STATEON_DLC_plato/2>
+<go_END>
+
+<label_E>
+<STATEON_DLC_plato/3>
+<go_END>
+
+<label_F>
+<go_END>
+
+<label_BACK>
+<STATEOFF_DLC_plato/1>
+<STATEOFF_DLC_plato/2>
+<STATEOFF_DLC_plato/3>
+<BGM_BGM_M5095_S0020_N_exit>
+<go_END>
+
+<label_END>
+<BGM_BGM_M5095_S0020_N_end>

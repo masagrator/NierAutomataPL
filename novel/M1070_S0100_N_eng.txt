@@ -1,0 +1,58 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0100_N_start>
+<page>
+„Każdy kto żyje, jest niewolnikiem pragnienia.
+Takie wewnętrzne ciągoty nadają naszym życiom sens.
+Jedni szukają piękna. Inni spokoju.
+Dla mnie nienawiść jest...”
+
+<i>Nie jestem taki!</i><bt_wait>
+
+„Ha ha ha! Oczywiście, że jesteś.”
+</page>
+
+<page>
+
+             „Ty<bt_wait> nie ufasz niczemu.”<bt_wait>
+
+                                   „Ty<bt_wait> chcesz wszystko zniszczyć.”<bt_wait>
+
+    „Ty<bt_wait> zatraciłeś całą swoją nadzieję.”<bt_wait>
+
+                                            „Ty<bt_wait> chcesz wszystko posiąść.”<bt_wait>
+
+                               „Ty<bt_wait> chcesz być przez wszystkich kochany.”<bt_wait>
+
+</page>
+
+
+<page>
+
+
+
+
+
+
+<BGM_BGM_M1070_S0100_N_0010>„Myślisz o tym, jak bardzo chcesz ***** 2B, czyż nie?”<bt_wait>
+
+
+
+
+</page>
+
+
+<page>
+„Rzeczywistość splamiona kłamstwami.”<bt_wait>
+
+<i>Przestaṅ! Dosyċ!</i><bt_wait>
+
+„Nienawiść się w ciebie wlewa.”<bt_wait>
+
+<i>Mylisz siė, cholera!</i><bt_wait>
+
+„Przelewające się pożądanie.”<bt_wait>
+<i>Ja... nie jestem jak ty!</i><bt_wait>
+„Twoja prawdziwa strona.”
+</page>
+<BGM_BGM_M1070_S0100_N_end>

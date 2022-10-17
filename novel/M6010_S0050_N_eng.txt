@@ -1,0 +1,169 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+...M6010_S0050_N
+
+<BGM_BGM_M6010_S0050_N_start>
+<page>
+
+
+
+Nazywam się Anemona i przewodzę androidzkiemu Ruchowi Oporu.<bt_wait>
+Są to zapiski bitew, których doświadczyłam — oraz moich porażek.<bt_wait>
+Pozostawię to tutaj jako przypomnienie dla samej siebie.
+
+
+
+</page>
+
+<page>
+Atak mechanicznych form życia trafia zbyt blisko, by się czuć się bezpiecznie.<bt_wait><BGM_BGM_M6010_S0050_N_0010>
+Wyczuwam drażniący smród i wiem, że część z moich włosów została spalona.<bt_wait>
+
+„Anemono! Wycofaj się na razie! To rozkaz!”<bt_wait>
+
+To moja kapitan, Róża. Słucham się jej rozkazu bez wahania, uciekając z frontu,
+kiedy tylko zdejmę kilku najbliższych wrogów. Stopy mnie niosą, wskakuję do
+pospiesznie zbudowane okopu, gdzie zebrali się moi kompani z Ruchu Oporu.
+</page>
+
+<page>
+Jak wiele bitew już było?<bt_wait>
+
+Te same widoki i dźwięki. Ta sama walka z wyczerpaniem.<bt_wait>
+Moje siły Ruchu Oporu odgrywają tę samą wojnę bez końca na horyzoncie.<bt_wait>
+
+Już nawet nie pamiętam dlaczego walczymy,
+ale mimo to muszę przeć dalej.<bt_wait>
+Muszę kontynuować aż jedna ze stron będzie martwa.
+</page>
+
+<page>
+„To wygląda źle, Shion. Co mamy zrobić?”<bt_wait>
+„Uspokój się Lilly. Znajdziemy gdzieś rozłam.”<bt_wait>
+„Nie poszukujesz rozłamu! Sam go <i>tworzysz</i>!”</i><bt_wait>
+„Dalio, poczekaj!”<bt_wait>
+
+Złapałam rękę Dalii, zanim ta wybiegła z okopu i zwróciłam się do Róży.
+W końcu to ona nas tu przywiodła — musi mieć jakiś plan.<bt_wait>
+Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
+</page>
+
+<page>
+„Nastąpiła zmiana w działaniach wroga.” mówi wreszcie.
+„Ktoś właśnie tam zaczął walczyć.”<bt_wait>
+„Ale to niemożliwe.” wykrztusza z siebie Margaret. „Wszystkie... jesteśmy tutaj.”<bt_wait>
+
+Margaret ma rację. Została tylko dziewiątka zdolna do walki z maszynami:
+Kapitan Róża. Gerbera. Lilly. Sonia. Erica. Margaret. Shion. Dalia...<bt_wait>
+I ja. Anemona. <bt_wait>Tylko my zostałyśmy na polu walki z ośmiu oddziałów.<bt_wait>
+
+Które wylądowały tutaj prawie 200 lat temu.
+</page>
+
+<page>
+Niespokojna Sonia przyciąga do siebie Shion i zagryza zęby na puklu włosów.<bt_wait>
+„Nie podoba mi się to.” mówi. „A co jeśli to jakaś pułapka maszyn?”<bt_wait>
+
+Odczekuję chwilę, z bijącym sercem, dopóki nie słyszę, że ogień nieprzyjaciela cichnie.<bt_wait>
+„Okej.” mówię. „To wygląda na naszą szansę. Cofnijmy się.”<bt_wait>
+„Ktoś tam walczy, Anemono!” wykrzykuje Dalia. „Nie możemy ich tak porzucić!”<bt_wait>
+„Och, więc chcesz zaryzykować nasze życia dla jakiegoś <i>obcego</i>? No, weź! Nie
+wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie czy nie.”<bt_wait>
+„Nie to powiedziałam!”<bt_wait>
+„Wystarczy, wy dwie.” wyszczekuje Shion. „To kapitan podejmuje ostateczną decyzję.”
+</page>
+
+<page>
+Po słowach Shion, wszystkie zwracamy się ku Kapitan Róży.
+Patrzy nam w oczy i powoli kiwa głową, zanim zaczyna mówić.<bt_wait>
+
+„Gerbera, wróg kieruje się w stronę wcześniej założonych przez nas ładunków wybuchowych, tak?”<bt_wait>
+
+Gerbera zastanawia się przez chwilę. „Teraz, jak o tym wspomniałaś, to tak, Idą tam.”<bt_wait>
+
+Lekki uśmiech przebiega przez twarz Róży, ale wciąż pozostaje spokojna.<bt_wait>
+„Dobrze. Więc jeśli to potoczy się dobrze, może będziemy w stanie pozbyć się ich wszystkich.”
+</page>
+
+<page>
+„Chcę, byście wszystkie wyszły z okopu i poszły do tych ładunków wybuchowych.” powiedziała Róża.<bt_wait>
+„Pozwolimy, by wybuch zmiótł większość z nich, a wtedy zniszczymy maruderów.<bt_wait>
+Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż skończymy.”<bt_wait>
+
+Nikt nie podważa decyzji kapitana. Po wydaniu przez nią rozkazu,
+wszystkie wyskakujemy z okopu i wracamy do boju.<bt_wait>
+
+Gdy docieramy do bitwy, znajdujemy coś, co wygląda na kolejną grupę androidów,
+ubranych w dziwne, czarne stroje. <bt_wait><BGM_BGM_M6010_S0050_N_0020>Zanim orientują się co się dzieje,
+detonujemy ładunki wybuchowe, zabijamy pozostałe maszyny i zwracamy nasza broń
+w ich stronę.
+</page>
+
+<page>
+„Dobra” mówię do obcych. „Zacznijcie gadać.”<bt_wait>
+„Spokojnie” mówi jeden z tajemniczych androidów. „Jesteśmy po waszej stronie.
+Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem YoRHa.”<bt_wait><BGM_BGM_M6010_S0050_N_0030>
+
+„Naprawdę?” mówię. „Nie słyszałyśmy nic o nowych modelach.”<bt_wait>
+
+Pewnie mówię ze zbytnim naciskiem, ale muszę się upewnić, że są
+po naszej stronie. Nie wydaje mi się, żeby kłamały, ale nie jestem w stanie 
+odczytać ich wyrazów twarzy przez wielkie gogle, które noszą na twarzach.<bt_wait>
+A tak szczerze, to odrobina ostrożności nigdy nie jest przesadą w środku wojny.
+</page>
+
+<page>
+Dowiedziałyśmy się, że cztery androidy zwracają się do siebie Numer 2, Numer 4,
+Numer 16 i Numer 21.<bt_wait> Poza tym nie spieszyło im się, by zdradzić nic więcej.<bt_wait>
+
+„Nasza misja jest ściśle tajna.” mówi jedna z nich. „Dlatego nic o nas
+nie słyszeliście.”<bt_wait>
+Powoli wyciągam nóż, w próbie ocenienia ich reakcji. „Więc innymi
+słowy nikt nie będzie nic wiedział, jeśli was teraz pozabijam?”<bt_wait>
+„Uspokój się, Anemono.” mówi delikatnie Róża.<bt_wait>
+„Nie!” krzyczy Lilly. „Ona ma rację! Wszystkie widziałyśmy jak szybko ewoluuje wróg. Kto
+jest nas w stanie zapewnić, że ta czwórka to nie są maszyny wyglądające jak ludzie?”<bt_wait>
+Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas podejrzliwości.
+</page>
+
+<page>
+Jedna z obcych — chyba Numer 16 — wyciąga długi nóż z pochwy.
+„Jeśli tej walki pragniecie.” mówi. „Z radością ją wam zapewnię.”<bt_wait>
+
+Zanim odpowiadam, Dalia wyskakuje przede mnie z bronią w gotowości.<bt_wait>
+To jest to. Będziemy walczyć.<bt_wait>
+Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.<bt_wait>
+
+„Poczekajcie.” mówi.
+</page>
+
+<page>
+„Było nas szesnaście.” mówi Numer 2. „Ale reszta zginęła w trakcie lądowania.”<bt_wait>
+Jesteśmy tutaj odizolowane. Posiłki się nie pojawią. A to oznacza, że musimy
+dokończyć tę misję z tymi żołnierzami, które mamy. Nie potrzebujemy
+więcej wrogów do walki. Teraz potrzebujemy... sprzymierzeńców.”<bt_wait>
+
+Kończy tę przemowę lekkim westchnięciem, jakby próbowała i nie dała rady
+utrzymać swoich emocji na wodzy.<bt_wait>
+
+Znam ten rodzaj głosu.<BGM_BGM_M6010_S0050_N_0040>
+</page>
+
+<page>
+
+
+
+
+Jest to głos osoby, która wciąż ma nadzieję, niezależnie od okoliczności.
+
+
+
+
+
+</page>
+<BGM_BGM_M6010_S0050_N_end>
+
+...SID_end
+
+

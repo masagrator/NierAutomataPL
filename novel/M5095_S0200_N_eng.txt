@@ -1,0 +1,18 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0200_N_start>
+<page>
+Nazywam się Platon 1728.<bt_wait>
+Jestem 1728-mą bronią bojową.<bt_wait>
+
+Nigdy nie byłem dobry w walce.<bt_wait>
+Jeśli podniosę moje prawe ramię, wylewa się olej.<bt_wait>
+Jeśli ruszę moją lewą nogą, szwankują mi sensory.<bt_wait>
+Jestem wadliwym produktem.<bt_wait>
+
+Ale przede wszystkim...<bt_wait>
+
+Gardzę przemocą.
+</page>
+<BGM_BGM_M5095_S0200_N_end>
+

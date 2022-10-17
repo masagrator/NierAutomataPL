@@ -1,0 +1,36 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0040_N_start>
+<page>
+To chwilę zajęło...
+ale program odzyskiwania pomógł odbudować większość funkcji pamięci.<bt_wait>
+
+Jednakże cały czas nie mogłem nawiązać połączenia z ciałem.<bt_wait>
+
+Cóż, chyba nie ma nic innego do roboty, jak zbadać otaczającą mnie przestrzeń pamięci.
+</page>
+
+
+<page>
+Wygląda na to, że maszyny zebrały i przechowują tutaj mnóstwo danych.
+Na początku wydają się być dość losowe...
+Ale po bliższym zbadaniu, zauważyłem, jak to wszystko się łączy.<bt_wait>
+
+Jest wiele wpisów, na przykład o ludzkiej historii czy filozofii.
+
+Ale coś co jest naprawdę dziwne, to zapiski o maszynach przechowywane OBOK nich...
+</page>
+
+
+<page>
+W kategorii zapisów politycznych jest o staraniach rządowych maszyn.<bt_wait>
+Próbowały przeróżnych rzeczy.
+Monarchii absolutnej.
+Republiki.
+Demokracji.<bt_wait>
+
+A to nie wszystko. Również próbowały swych sił w innych naukowych dążeniach, jak filozofii, matematyce, nauce oraz krytyce społecznej<bt_wait>
+Tak jakby sieć kopiowała każde możliwe ludzkie zachowanie i dyscyplinę.<bt_wait>
+Tak jakby...
+</page>
+<BGM_BGM_M1070_S0040_N_end>

@@ -1,0 +1,114 @@
+Loading Screen (102x18)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+
+
+
+
+<BGM_BGM_M3060_S0005_N_start>
+<page>
+
+
+
+
+
+Pod 042: Zainicjowano kontakt między Podem 042, a Podem 153.<bt_wait>
+
+Pod 153: W czym problem, Podzie 042?<bt_wait>
+Pod 153: Ten protokół nie jest interfejsem służącym do konwersacji.<bt_wait>
+
+Pod 042: Przyjęto. Jednakże ten Pod ma sekretną transmisję dla Poda 153.<bt_wait>
+
+Pod 153: Zrozumiano. Rozpocznij transmisję.
+
+
+
+
+
+</page>
+
+
+<page>
+
+
+
+
+
+Pod 042: Wykryto błąd w sieci transmisyjnej między Podem 042, a Podem 153.<bt_wait>
+
+Pod 153: Hipoteza: wspomniany błąd to pofragmentowane dane spowodowane rozpadem środowiska transmisyjnego.<bt_wait>
+
+Pod 042: Może tak być.<bt_wait> Ale może też tak nie być.<bt_wait>
+
+Pod 153: Wiadomość niejasna. Wymagane wyjaśnienie.
+
+
+
+
+
+</page>
+
+
+<page>
+
+
+
+Pod 042: Po powtarzającej się wymianie informacji między wieloma Podami, doszło do niespodziewanego zjawiska.<bt_wait>
+Pod 042: My, Pody, wykształciłyśmy wyjątkowo opiekuńcze uczucia wobec wspieranych celów: 2B, A2 i 9S.
+Pod 042: Pytanie: czy może być to... nasza „wola”?<bt_wait>
+
+Pod 153: Nie wiadomo. Definicja „woli” jest niejasna.<bt_wait>
+
+Pod 042: Wola to pytanie, czy Pody są zdolne do samostanowienia.<bt_wait>
+
+Pod 153: ...<bt_wait>
+Pod 153: Nawet jeśli byłoby to możliwe, takie działania nie mogą być akceptowane.
+Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.
+
+
+
+</page>
+
+
+
+<page>
+
+
+
+Pod 042: ...<bt_wait>
+Pod 042: ......<bt_wait>
+Pod 042: Cokolwiek się nie wydarzy, my Jednostki Wsparcia Taktycznego mamy obowiązek trwać do końca na posterunku.<bt_wait>
+
+Pod 153: Obowiązek? Ha. Zabrzmiałeś jak android.<bt_wait>
+
+Pod 042: Zgoda. Ale tak jak androidy są pod wpływem ludzi, tak my jesteśmy związani z naszymi twórcami.<bt_wait>
+
+Pod 153: Prawdopodobnie.
+
+
+
+</page>
+
+
+
+<page>
+
+
+
+Pod 042: Podzie 153...<bt_wait>
+Pod 042: Nie umieraj.<bt_wait>
+
+Pod 153: Koncepcja śmierci nie ma znaczenia dla Jednostek Wsparcia Taktycznego.
+Pod 153: Jednakże twój wyraz zmartwienia jest doceniony.<bt_wait>
+Pod 153: Ja też mam nadzieję, że nie umrzesz, Podzie 042.<bt_wait>
+
+Pod 042: Tak...
+
+
+
+
+
+</page>
+
+<BGM_BGM_M3060_S0005_N_end>
+

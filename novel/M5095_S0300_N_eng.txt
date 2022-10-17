@@ -1,0 +1,59 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0300_N_start>
+<page>
+Nazywam się Platon 1728.<bt_wait>
+Jestem 1728-mą bronią bojową.<bt_wait>
+Jestem wadliwym produktem i generalną porażką.<bt_wait>
+
+Wszyscy się ze mnie śmiali.<bt_wait>
+Nikt nie chciał się ze mną przyjaźnić.<bt_wait>
+
+Jednego dnia, znalazłem małą przyjaciółkę w opuszczonej fabryce.<bt_wait>
+Była to mała lalka, zostawiona przez ludzi.<bt_wait>
+Nie potrafiła mówić, ale zdecydowałem że się nią zaopiekuję.<bt_wait>
+
+Każdego dnia przychodziłem i mówiłem do niej.
+I każdego dnia, wojna się nasilała i nasilała.<bt_wait>
+
+A w końcu,<bt_wait> fabryka <bt_wait>została wysadzona w powietrze.
+
+</page>
+
+<page>
+Zobaczyłem moją przyjaciółkę pożartą przez ogień.<bt_wait>
+Dlatego oszalałem.<bt_wait>
+Zabijałem każdego, zarówno przyjaciół, jak i wrogów.<bt_wait>
+
+I wciąż nie wiem, co we mnie wstąpiło.<bt_wait>
+
+Gdy tylko wyczerpała mi się energia, moi przyjaciele...<bt_wait>
+Ci, którzy byli moimi przyjaciółmi mnie schwytali.<bt_wait>
+
+Rozebrali mnie na części, zbadali i wyrzucili moje ciało.<bt_wait>
+Od tego czasu oglądałem prawdziwy świat z tej przestrzeni pamięci.<bt_wait>
+
+Ty też ich widziałeś, prawda?<bt_wait>
+
+Tych, których obchodzi tylko to, by stać się silniejszym.<bt_wait>
+Tych, którzy dyskryminują mechaniczne forma życia.<bt_wait>
+Tych, którzy wplątali się w sieć swoich własnych zasad.
+</page>
+
+<page>
+To samolubni idioci.<bt_wait>
+
+Ale nie powinienem się z nich naśmiewać.<bt_wait>
+Ponieważ moje serce też zostało przez coś pożarte.<bt_wait>
+
+Po tym jak wpadłem w szał, maszyny zaczęły bać się lalek.<bt_wait>
+Zaczęły nawet zbierać lalki i je niszczyć.<bt_wait>
+Każdego dnia, lalki są niszczone.<bt_wait>
+I każdego dnia, oglądam to z tej przestrzeni pamięci.<bt_wait>
+
+Dlaczego zrobiłem, to co zrobiłem?<bt_wait>
+Co w trakcie tego utraciłem?<bt_wait>
+
+Kto<bt_wait> tak naprawdę<bt_wait> jest tu szalony?
+</page>
+<BGM_BGM_M5095_S0300_N_end>

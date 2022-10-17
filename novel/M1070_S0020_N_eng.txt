@@ -1,0 +1,46 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0020_N_start>
+<page>
+Znalazłem się w przedziwnym rejonie przechowywania pamięci, rozciągającym się tak daleko, jak sięgał mój wzrok.<bt_wait>
+
+To plątanina.
+Labirynt.
+Masywna, połączona sieć.
+Nigdy wcześniej nie widziałem czegoś takiego.<bt_wait> 
+
+Musiało zostać stworzone przez maszyny.<bt_wait>
+
+Więc... co ja tu robię?
+</page>
+
+
+
+<page>
+Jestem... 9S.
+To wszystko co pamiętam.<bt_wait>
+
+Duże fragmenty mojej pamięci mogły zostać zniszczone...<bt_wait>
+
+Co jeśli wszystko zapomnę? Moje wspomnienia? Siebie samego? Moje...<bt_wait>
+
+Dobrze, uspokój się.<bt_wait> Uspokój się, uspokój się, uspokój się.<bt_wait>
+
+
+Po prostu wykorzystaj poradnik kryzysowy i przeprowadź program odzyskiwania pamięci.
+</page>
+
+
+<page>
+Program odzyskiwania zaczyna wypełniać dziury w mojej pamięci.<bt_wait>
+Wracają na swoje miejsca, jak brakujące w słowie litery.<bt_wait>
+
+Bunkier...
+Plan 2B...
+Gigantyczna mechaniczna forma życia...
+Strzał rakietą ostatniej szansy...<bt_wait>
+
+W chwili wybuchu był włączony tryb ochronny.
+Zatrzymało to większość zabezpieczeń będących w sieci.
+</page>
+<BGM_BGM_M1070_S0020_N_end>

@@ -1,0 +1,172 @@
+*Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+*Pod conversation (45 x 16)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+*Loading Screens (102x18)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+*Played after M3060_S0900_HD
+
+..M3060_S0915_N
+
+
+
+
+
+<color_404040>
+<bgcolor_ffffff>
+<BGM_BGM_M3060_S0910_N_start>
+<page>
+
+
+
+                                              „Jestem...”
+</page>
+<page>
+
+
+
+                                             „Nazywam się...”
+</page>
+<page>
+„Nazywam się... 9S.“<bt_wait><BGM_BGM_M3060_S0910_N_0010>
+„Jestem nowo wybudowanym modelem Skanera.”<bt_wait>
+„30 stycznia 11942.”<bt_wait>
+„Zszedłem z taśmy o 4:25 czasu Bunkra.”<bt_wait>
+„Będę walczył w imię ludzkości z całych moich sił.”<bt_wait>
+„Przyjemność po mojej stronie, Pani Komandor.”
+</page>
+<page>
+Leżę w przestrzeni białego światła.<bt_wait>
+Ból... odszedł.<bt_wait>
+Światło mnie pochłania.<bt_wait> Jest takie <i>ciepŀe</i>.
+</page>
+<page>
+Byłem niepewny.<bt_wait>
+Żołnierz od momentu narodzin, wrzucony samotnie do świata.<bt_wait>
+Nic na czym mógłbym się oprzeć.<bt_wait>
+Żadnego Boga, w którego mógłbym wierzyć.<bt_wait>
+
+Byłem sam.<bt_wait>
+Z zadaniem infiltracji terenów wroga w celu zbierania informacji.<bt_wait>
+We mgle.<bt_wait>
+W płomieniach.<bt_wait>
+Sam.
+</page>
+<page>
+„Nazywam się 9S. Jestem tutaj, żeby stanowić wsparcie.”<bt_wait>
+
+2B wydała się być raczej powściągliwa. Nawet chłodna.<bt_wait>
+Chciała się pewnie wobec mnie zdystansować.<bt_wait>
+Zgaduję, że pewnie nie chciała się przywiązywać do kogoś,
+kogo miała w kółko i wciąż zabijać.<bt_wait>
+
+Ale... ja...
+</page>
+<page>
+„Skanery takie jak ja zwykle pracują samotnie. Zwiad na linii wroga i takie tam?”<bt_wait>
+„Zwykle nie dostaję partnera. A to dość miłe!”<bt_wait>
+
+Tak bardzo się cieszyłem, że z kimś jestem.<bt_wait>
+
+Tak jak bym miał rodzinę.
+</page>
+<page>
+Moje obrażenia się pogarszają.<bt_wait>
+Zaczynam tracić wspomnienia.<bt_wait><BGM_BGM_M3060_S0910_N_0020>
+Przestrzeń wypełnia się czystym światłem.
+Jakbym był zakopany w śniegu.<color_505050><bt_wait>
+
+Jest też troszkę zimno.<color_606060><bt_wait>
+Jest też troszkę strasznie.<color_707070><bt_wait>
+Czy moja dusza... zniknie?
+</page>
+<page>
+Ciemna mgła zasłania mój wzrok.<bt_wait>
+Kiedy opada i przepływa w swym powolnym, sennym ruchu, powoli przyjmuje ludzki kształt.<bt_wait>
+
+To czerwona dziewczynka.<bt_wait>
+
+Powoli zaczyna mówić.
+</page>
+<page>
+Ta wieża, to gigantyczne działo, stworzone by zniszczyć ludzki serwer.<bt_wait>
+Zniszczyć serwer... i ograbić androidy z ich podstawowych wartości.
+Taki był plan stworzony przez te dziewczynki.<bt_wait>
+
+Ale zmieniły zdanie.<bt_wait>
+Widziały androidy.<bt_wait> Widziały Adama.<bt_wait> I Ewę.<bt_wait>
+Widziały, jak żyliśmy i biorąc pod uwagę sens egzystencji
+doszły do innych wniosków.
+</page>
+<page>
+Ta wieża nie wystrzeli pocisków.<bt_wait> Wystrzeli <i>arkė</i>.<bt_wait>
+Arkę zawierającą wspomnienia głupich mechanicznych form życia.<bt_wait>
+Arkę, która wyśle te wspomnienia do nowego świata.<bt_wait>
+
+Możliwe, że nigdy nie dotrą do tego świata.<bt_wait>
+Możliwe, że będą wędrować po pustym niebie przez wieczność.<bt_wait>
+Dla dziewczynek to nie ma różnicy. Dla nich, czas nie ma końca.
+</page>
+<page>
+Adam i Ewa są w środku arki.<bt_wait>
+Ewa śpi.<bt_wait>
+Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.<color_808080><bt_wait>
+
+Chcę na niego spojrzeć, ale moje ciało odmawia ruchu..<color_a0a0a0><bt_wait>
+Wygląda na to, że zniszczenia dotarły również do moich funkcji ruchowych.
+</page>
+<page>
+„Wyruszysz z nami?” pyta Adam.<bt_wait>
+To pytanie było całkowicie wolne od złośliwości.<bt_wait>
+Wygląda na to, że nie mam już powodu, by nienawidzić maszyn.<bt_wait>
+Może tak właściwie nigdy nie było tego powodu.<bt_wait>
+
+Dlaczego walczyłem?<bt_wait>
+Dla kogo <i>ẓyŀem</i>?<bt_wait>
+
+Już tego nie wiem.
+</page>
+<page>
+<color_b0b0b0>Próbuję się odezwać, ale słowa nie chcą poprawnie wyjść.<color_c0c0c0><bt_wait>
+Moje procesy myślowe tracą płynność.<bt_wait>
+Nie...<bt_wait> Nie pamiętam swojego imienia.<bt_wait>
+
+„Jestem...”
+</page>
+
+<page>
+Wysilając się ze wszystkich sił, wyrzucam z siebie słowa...<bt_wait>
+
+<sele_YES> „Polecą z wami.”
+<sele_NO> „Zostanę.”
+</page>
+
+<label_YES><STATEON_select_novel/go>
+
+<page>
+„Polecę z wami.”<color_d0d0d0><bt_wait>
+„My z YoRHy nie mamy racji bytu na tym świecie.”
+</page>
+<go_END>
+
+<label_NO><STATEON_select_novel/stay>
+
+<page>
+„Zostanę.”
+“Ja...”<color_d0d0d0><bt_wait>
+“My z YoRHy... Nie zasługujemy by kochał nas ten świat...”
+</page>
+<go_END>
+
+<label_END>
+<BGM_BGM_M3060_S0910_N_end>
+
+...SID_end
+
+
+
+
+

@@ -1,0 +1,198 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+...M6010_S0150_N
+
+
+<BGM_BGM_M6010_S0150_N_start>
+<page>
+Zgodnie z tym co twierdzi grupa YoRHa, w górze Ka'ala jest serwer nieprzyjaciela.<BGM_BGM_M6010_S0150_N_0010>
+Jeśli go zniszczymy, możemy wreszcie coś zyskać w taj niekończącej się wojnie.<bt_wait>
+Ale by tak się stało, musimy pracować razem.<bt_wait>
+
+Po dłuższym zastanowieniu, Róża decyduje się przyjąć nowe modele.<bt_wait>
+To związek, który się zmienia w miarę upływu czasu.
+</page>
+
+<page>
+„Ee, co robisz Dalio?”<bt_wait>
+„Po prostu... pokazuję tej idiotce... jaka jest słaba!” odpowiada pozbawiona tchu Dalia.<bt_wait>
+„Ha!” sapie jej przeciwniczka, Numer 16. „Zdecydowanie jesteś... prześcignięta!”<bt_wait>
+
+Dwie z nich na zmianę wymierzają sobie ciosy.<bt_wait>
+Wygląda to wystarczająco przyjaźnie... jak to bywa.<bt_wait>
+Poza tym obie robią to tak długo, że zaczęła kończyć się im energia. W tym
+momencie nie byłyby w stanie przebić się pięścią przez kartkę papieru.
+</page>
+
+<page>
+Reszta z grupy patrzy się na walczące i próbuje się nie uśmiechać.<bt_wait>
+Dalia i Numer 16 próbują przebić się głową przez każdą najmniejszą rzecz.<bt_wait>
+Może to dlatego, że są takie podobne.<bt_wait>
+
+To prawie irytujące, jak mięśniaki szybko uczą cię nawzajem siebie lubić.
+</page>
+
+<page>
+Reszta z nas rozmawia, kiedy Dalia i Numer 16 dalej się biją.<bt_wait>
+
+„Zwracamy się do siebie imionami, które ja nam nadałam.” wyjaśnia Róża.<bt_wait>
+„Rozumiem.” odpowiada Numer 4. „Pomyślałam, że to dziwne, że nie używacie kodów.”<bt_wait>
+
+Kiwa głową jak mówi, jakby to wszystko miało sens.
+</page>
+
+<page>
+Nagle Kapitan Róża uśmiecha się szeroko. „Wiesz co?” mówi.<bt_wait>
+„Powinnyśmy wam również nadać imiona!”<bt_wait>
+
+„Nie.” mówi Numer 2. „To byłaby strata.”<bt_wait>
+
+Róża patrzy na nią z uwagą „Strata?”
+</page>
+
+<page>
+„Możesz mnie nazwać, jak skończy się nasza misja.” odpowiada, kiedy na jej policzkach
+pojawia się rumieniec. Widzę, że jej słowa są również życzeniem powodzenia.<bt_wait>
+
+„Dobrze.” odpowiada Róża. „Pomyślę do tego czasu nad imionami dla was.”<bt_wait>
+
+Wie, że jest to krucha obietnica, jak większość. Ale to nie
+ma znaczenia — już widzę, jak zbliżamy się do grupy YoRHa.<bt_wait>
+
+Cóż, przynajmniej moje przyjaciółki się do nich zbliżają.
+</page>
+
+<page>
+„Jesteście nieostrożne.” stwierdzam, głośniej niż miałam zamiar.<bt_wait>
+Na szczęście reszta albo mnie nie słyszy, albo ignoruje.<bt_wait>
+
+Nie zrozumcie mnie źle — nie mam zamiaru sprzeciwiać się rozkazom kapitana.<bt_wait>
+Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „przyjaciółkom”.
+</page>
+
+<page>
+Nasze istnienie jest samotne od kiedy porzucił nas księżyc. Niezależnie jak
+głośno krzyczeli, płakali i walczyli, głosy naszych odeszłych kompanów
+pozostały bez odpowiedzi.<bt_wait>
+
+Więc jak możesz zaufać pełnemu oddziałowi nowych, dopiero co poznanych modeli?
+</page>
+
+<page>
+„Coś nie tak, Anemono?”<bt_wait><bt_wait><BGM_BGM_M6010_S0150_N_0020>
+Słyszę, jak odzywa się do mnie Lilly. Jest bardzo zaniepokojona tym,
+że oddzielam się od reszty grupy.<bt_wait>
+„Nic takiego.” zaczęłam. „Myślę...”<bt_wait>
+Zanim jestem w stanie skończyć swoją myśl, Lilly nagle otwiera usta i
+wydaje z siebie potworny, przenikliwy krzyk.
+
+“AaaaaaAAAAAAAAAAAAAA!”
+</page>
+
+<page>
+Krzyk Lilly rozbrzmiewa w całym obozie.<BGM_BGM_M6010_S0150_N_0030>
+Łamie serce. Jest agonalny. Jest... <bt_wait>koszmarny.<bt_wait>
+
+„Ona jest zainfekowana!” krzyczy Róża. „Lilly jest zainfekowana!”<bt_wait>
+
+Instynktownie wszystkie wyciągamy broń, kierując ją na naszą
+towarzyszkę, kiedy ona dalej krzyczy i krzyczy i krzyczy..<bt_wait>
+
+Wszystkie wiemy, co się dzieje. Już to widziałyśmy wcześniej.<bt_wait> To wirus logiczny
+— broń maszyn, która włamuje się do systemu androidów i nadpisuje ich dane.<bt_wait>
+A skoro nie znamy lekarstwa...<bt_wait> jest to też wyrok śmierci.
+</page>
+
+<page>
+Muszę okazać jej łaskę.<bt_wait> Muszę ją uwolnić.<bt_wait>
+
+Mój palec ląduje na spuście, ale wciąż się waham. I zanim
+podejmuję ostateczną decyzję, słyszę zza swoich pleców głos:<bt_wait>
+
+„Przestań! Nie możesz tego zrobić! Nie możesz pozwolić swojej przyjaciółce UMRZEĆ!”<bt_wait>
+
+To Numer 21. Dziewczyna, którą uważałam za spokojną i opanowaną
+w każdej sytuacji, teraz błaga mnie o darowanie Lilly życia.<bt_wait>
+
+Co zrobić?<bt_wait> Co do cholery zrobić?!
+</page>
+
+n<page>
+„Lilly mówiła, że jesteś dla niej jak rodzina! Nie możesz
+porzucić rodziny, nie zanim nie spróbujesz wszystkiego!”<bt_wait>
+„Więc, co możesz zrobić?”<bt_wait>
+„Użyję swojej mocy, by wykasować tego wirusa!”<bt_wait>
+„To niemożliwe!”
+</page>
+
+<page>
+Róża rzuciła to, o czym wszystkie myślałyśmy, ale zanim zdążyłyśmy się coś zrobić,
+Lilly zaczęła wyrzucać najbliższe towarzyszki w powietrze z ogromną siłą.<bt_wait>
+Widziałam wcześniej zainfekowane androidy — wiem jak wiele szkód są w stanie narobić,
+gdy ich wirus rozkręci ich ograniczniki. Będą walczyć i walczyć zanim nie zostaną doszczętnie zniszczone.<bt_wait>
+
+Dalia i Numer 16 ruszają w bój, by wstrzymać byłą przyjaciółkę,
+ale odtrąca je na boki jak muchy.
+</page>
+
+<page>
+Ile z nas już było zainfekowanych?<bt_wait>
+
+Ile przyjaciółek musiałam zabić?<bt_wait>
+
+Serce, którego nie powinnam mieć, boli mnie na tę myśl. Boli, kiedy przypominam
+sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.<bt_wait>
+
+Kiedy zaczęłam dawać im imiona?<bt_wait>
+Kiedy uznałam, że już nie jestem w stanie tego znieść?
+</page>
+
+<page>
+„Inicjuję sekwencję przeprogramowania!”<bt_wait>
+
+Ten głos... Numer 21? Krzyczy coś o... przeprogramowaniu?
+
+Nie wiem, co zrobić.<bt_wait>
+Jestem zagubiona.<bt_wait>
+
+Kiedy rozjaśnia się mój wzrok, widzę jak Numer 21 wpisuje komendy w swój terminal,
+kiedy Numer 2 i Numer 4 ją przytrzymują. Trzymają ją, jak się zwija i...<bt_wait>
+
+Róża patrzy na mnie z zaskoczeniem. <bt_wait>O nie... <bt_wait>Ja też trzymam Lilly.
+</page>
+<page>
+„Trzymaj się, Lilly!” krzyczy Numer 21. „Uratuję cię!”<bt_wait>
+
+Ryzykuje swoje życie dla Lilly. One WSZYSTKIE ryzykują swoje życia.
+
+„Ładuję zestaw danych!”<bt_wait>
+
+Jej okrzyk przebija mi duszę, jeśli w ogóle mogę powiedzieć, że ją posiadam
+
+Chcę im wierzyć. Proszę, niech to zadziała. Proszę...
+</page>
+<page>
+Ciało Lilly drży i szamocze się pod naszym wspólnym ciężarem. Próbuje
+zrzucić z siebie Numer 2, ale innej kobiecie jakoś udaje się ją przytrzymać.<bt_wait>
+
+Trzymam Lilly całą moją siłą.<bt_wait>
+Nie puszczę jej.<bt_wait>
+Nie stracę nikogo więcej!<bt_wait>
+
+Nagle, ciało Lilly staje się bezwładne. Numer 21 spogląda na terminal i wydaje
+ciężkie i surowe westchnięcie.
+
+„Usuwanie wirusa... zakończone.”<BGM_BGM_M6010_S0150_N_0040>
+</page>
+<page>
+Ona wróciła.<bt_wait>
+Lilly wróciła.<bt_wait>
+
+Okrzyki radości rozbrzmiewają z ust moich towarzyszek z Ruchu Oporu. Tulę Lilly w uścisku,
+który oszałamia mnie brutalnością i przez zapłakane oczy spoglądam na Numer 21.<bt_wait>
+
+Niech mnie diabli. Chyba prawie się uśmiechnęła.
+</page>
+<BGM_BGM_M6010_S0150_N_end>
+...SID_end

@@ -1,0 +1,71 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+..M9000_S0500_N.txt
+
+
+
+<label_A>
+<page>
+Wola. Skąd pochodzi wola?
+<sele_D>・Narodziła się z nicości.
+<sele_B>・Została nam dana przez Boga.
+<sele_Z>・Nie obchodzi mnie to. Nie potrzebuję tego!
+</page>
+
+<label_B>
+<page>
+Bóg. Jak Bóg nas stworzył?
+<sele_C>・Z losowego przypadku.
+<sele_D>・Z nicości.
+<sele_Z>・Nie obchodzi mnie to. Nie potrzebuję tego!
+</page>
+
+<label_C>
+<page>
+Przypadek. Czy ten świat został stworzony z losowego przypadku?
+<sele_A>・Wszystko dzieje się według woli Boga.
+<sele_D>・To nie było losowe. Ten świat jest wypełniony nicością.
+<sele_Z>・Nie obchodzi mnie to. Nie potrzebuję tego!
+</page>
+
+<label_D>
+<page>
+Nicość. Czy jest jakieś znaczenie w życiu na tym świecie?
+<sele_B>・Modlitwa do Boga.
+<sele_A>・Zachowanie się zgodnie z swoją wolą.
+<sele_Z>・Nie obchodzi mnie to. Nie potrzebuję tego!
+</page>
+
+
+
+<label_END>
+<page>
+Nadszedł już czas.
+Kto wie jaka walka czeka na nas...
+
+</page>
+<EXIT>
+※白ＦＯ
+
+<label_Z>
+<page>
+Gra jest obecnie instalowana.
+Nie można kontynuować grania, dopóki instalacja nie zostanie ukończona.
+Czy chcesz porzucić wszystko i powrócić do ekranu tytułowego?
+Jeśli tak zrobisz, stracisz wszelkie niezapisane dane.
+<sele_Y> - Tak
+<sele_A> - Nie
+</page>
+
+<label_Y><STATEON_playgo_backtitle>
+<page>
+Powrót do ekranu tytułowego.
+</page>
+
+
+
+
+
+
+

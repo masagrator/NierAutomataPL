@@ -1,0 +1,69 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0080_N_start>
+<page>
+
+
+
+
+
+”Ogłaszam... wszystkim... androidom...”
+
+
+
+
+
+</page>
+
+
+<page>
+Słowa rozbłysły w polu widzenia. Głos narastał czysto w mojej głowie.<bt_wait><BGM_BGM_M1070_S0080_N_0010>
+To Adam — maszyna stworzona na podobieństwo człowieka.<bt_wait>
+
+„My, mechaniczne formy życia wyewoluowałyśmy.” mówi „Odbyłyśmy wojnę.
+Nauczyłyśmy się. Rozwinęłyśmy. I teraz osiągnęłyśmy nową świadomość.<bt_wait>
+Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
+</page>
+
+
+<page>
+<i>Kŀamstwa! Nic tylko kŀamstwa nėdznych maszyn!</i><bt_wait>
+
+Adam zaśmiał się. „I to wy androidy uważacie się za żywych? Jakież to dziwne.
+Jesteście marionetkami, którym brak nawet wolnej woli.”
+
+<i>Nie! Mylisz siė!</i>
+
+</page>
+
+
+<page>
+Jego słowa płynęły przeze mnie, jakby były wlewane do mojego ucha.
+
+„W czym się mylę, chłopcze?”<bt_wait>
+
+<i>Jestem... Jesteṡmy...</i><bt_wait>
+                     
+„Może jednak masz wolę.” Chichocze. „Może masz pragnienia.”
+
+</page>
+
+
+<page>
+„Widzisz chłopcze! Prawdziwym sensem życia... jest nienawiść!”<bt_wait>
+
+<i>Mylisz siė.</i><bt_wait>
+
+„Plugawa nienawiść ukrywa się w głębinach twego serca.”<bt_wait>
+
+<i>MYLISZ SIĖ!</i><bt_wait>
+
+„Im bardziej starasz się ją ukryć, tym bardziej ta ciemność rośnie.”<bt_wait>
+
+<i>Mylisz siė!<bt_wait> Mylisz siė!<bt_wait> Mylisz siė!<bt_wait> Mylisz siė!</i>
+</page>
+<BGM_BGM_M1070_S0080_N_end>
+
+
+
+
